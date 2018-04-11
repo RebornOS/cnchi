@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=Install Antergos Linux
-Name[pl]=Zainstaluj Antergos Linux
-Name[sk]=Inštalovať Antergos Linux
+Name=Install Reborn OS
+Name[pl]=Zainstaluj Reborn OS
+Name[sk]=Inštalovať Reborn OS
 GenericName=Live Installer
 Comment=Install the operating system to disk
-Comment[pl]=Zainstaluj system Antergos Linux
+Comment[pl]=Zainstaluj system Reborn OS
 Comment[sk]=Nainštaluje operačný systém na disk
 Exec=/usr/bin/cnchi
 Icon=cnchi
